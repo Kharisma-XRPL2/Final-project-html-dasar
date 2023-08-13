@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    color: blueviolet;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
+
+.namap{
+    color: blue;
+}
+.nama{
+    color: blue;
+}
+.kelamin{
+    color: blue;
+}
+.agama{
+    color: blue;
+}
+.ttl{
+    color: blue;
+}
+.alamat{
+    color: blue;
+}
+.sekolah{
+    color: blue;
+}
+.kelas{
+    color: blue;
+}
+.hobi{
+    color: blue;
+}
+.cita{
+    color: blue;
+}
+.quote{
+    color: blue;
+}
